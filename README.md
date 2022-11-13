@@ -13,7 +13,7 @@ Este repositório traz os passos para usar o serviço da AWS para subir os dados
     2)Seguimos algumas configurações recomendadas: Source type [Data Stores] -> Crawl all folders; Data store [S3] -> Include path [caminho do diretório dos dados de entrada]; Create IAM Role; Frequency [Run on demand]; Database name [database-exercicio-athena-dio]; Group behavior [Create a single schema for each S3 path]; Finish; Databases -> Tables -> Visualizar dados das tabelas criadas
     
     
-  <img src="/path/to/print crawler.png"
+  <img src="print crawler.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
